@@ -1,0 +1,42 @@
+body {
+	background: #7bbb5a;
+	margin: 0;
+}
+.boton {
+	background-color: #4caf4f;
+	width: 275px;
+	height: 47px;
+	margin: 6px;
+	padding-left: 16px;
+	border: none;
+	color: white;
+	box-sizing: border-box;
+}
+.contenedor_login {
+	background: #ffffff;
+	width: 520px;
+	height: 290px;
+	margin: auto;
+	margin-top: 12%;
+	box-shadow: 1px 1px 20px;
+}
+.contenedor_imagen_perfil {
+	display: inline-block;
+	width: 40%;
+	height: 100%;
+}
+.contenedor_formulario {
+	float: right;
+	width: 60%;
+	height: 100%;
+	margin-top: 40px;
+}
+.imagen_perfil {
+	margin-top: 62px;
+	margin-left: 37px;
+	margin-bottom: 95px;
+}
+.paciente {
+	color: #4caf55;
+	margin: 6px 12px;
+}
